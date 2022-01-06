@@ -42,4 +42,4 @@ stages:
                 katalonstudio/report-uploader:0.0.8
             displayName: Upload report to Katalon TestOps
             env:
-              KATALON_API_KEY: e98d24a9-286e-4dce-8b01-2a507125986b
+              KATALON_API_KEY: "e98d24a9-286e-4dce-8b01-2a507125986b"
